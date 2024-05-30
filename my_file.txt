@@ -1,0 +1,6 @@
+1. Provide a file
+2. Read the file
+3. Use the file
+4. Edit everything
+5. Cook some more
+6. On the grind
